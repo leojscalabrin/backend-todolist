@@ -1,0 +1,13 @@
+{
+  "name": "backend-todolist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leojscalabrin/backend-todolist.git",
+  "author": "leojscalabrin <leojscalabrin@gmail.com>",
+  "license": "MIT",
+  "Microsoft.Powershell:ExecutionPolicy": "RemoteSigned",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
